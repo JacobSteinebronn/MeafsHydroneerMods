@@ -1,2 +1,2 @@
 Heilos$https://raw.githubusercontent.com/Team-Hydronix/Releases/master/Pak%20Mods/
-Vegeo$https://raw.githubusercontent.com/VegeoStudios/HydroMods/master/
+Vegeo$https://raw.githubusercontent.com/VegeoStudios/HydroMods/master/$Dangerous
